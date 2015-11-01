@@ -1,0 +1,11 @@
+{
+  "name": "my_serialport_electron",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "serialport": "^2.0.2"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.0.2"
+  }
+}
